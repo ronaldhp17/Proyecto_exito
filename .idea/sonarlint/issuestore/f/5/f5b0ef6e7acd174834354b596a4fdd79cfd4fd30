@@ -1,0 +1,28 @@
+
+]
+java:S1854!"@Remove this useless assignment to local variable "numberRandom".(ŒáÔš8ç¡Õá1
+N
+java:S1481"1Remove this unused "numberRandom" local variable.(Äêœ§8è¡Õá1
+L
+java:S1481"*Remove this unused "count" local variable.(Å˜Ó¢ıÿÿÿÿ8»‚±Õá1
+:
+java:S2119 "Save and re-use this "Random".(¼İÅf8é¡Õá1
+}
+java:S1128"`Remove this unused import 'co.com.choucair.certificatio.exito.userinterfaces.SelectProductPage'.(çÙÆÊ8øå¡Õá1
+v
+java:S1128"YRemove this unused import 'co.com.choucair.certificatio.exito.utils.SelectRandomProduct'.(ıÒÖ¬8øå¡Õá1
+e
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ğ”„Îüÿÿÿÿ8øå¡Õá1
+b
+java:S1128	"ERemove this unused import 'net.serenitybdd.screenplay.actions.Click'.(€Äø8øå¡Õá1
+f
+java:S1128
+"IRemove this unused import 'net.serenitybdd.screenplay.actions.MoveMouse'.(©Şß8øå¡Õá1
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8øå¡Õá1
+]
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8øå¡Õá1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8øå¡Õá1
+N
+java:S1068"1Remove this unused "productMatrix" private field.(ù–¡ 8ê¡Õá1
