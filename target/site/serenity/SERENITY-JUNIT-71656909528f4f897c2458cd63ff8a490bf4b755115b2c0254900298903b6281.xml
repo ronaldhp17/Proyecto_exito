@@ -1,14 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="random purchase on exito" skipped="0" tests="1" time="23.81" timestamp="2024-03-06 09:42:29"><testcase name="randomly add products and product quantities to the cart"><error message="Conversion = '&#10;'" type="java.util.UnknownFormatConversionException">Conversion = '
-'</error><system-err>Conversion = '
-'&#13;
-co.com.choucair.certificatio.exito.tasks.SearchProduct.performAs(SearchProduct.java:27)&#13;
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="random purchase on exito" skipped="0" tests="1" time="5.6" timestamp="2024-03-11 02:07:59"><testcase name="randomly add products and product quantities to the cart"><failure message="Expected condition failed: waiting for By.xpath: //*[@id=&quot;__next&quot;]/main/section[3]/div/div[2]/div[2]/div[2]/ul/li[10]/article/section/div[2]/div[2]/div/button[2] to be present (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '4.12.1', revision: '8e34639b11'&#10;System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBePresentException">Expected condition failed: waiting for By.xpath: //*[@id="__next"]/main/section[3]/div/div[2]/div[2]/div[2]/ul/li[10]/article/section/div[2]/div[2]/div/button[2] to be present (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: unknown</failure><system-err>Expected condition failed: waiting for By.xpath: //*[@id="__next"]/main/section[3]/div/div[2]/div[2]/div[2]/ul/li[10]/article/section/div[2]/div[2]/div/button[2] to be present (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: unknown&#13;
 net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:519)&#13;
 net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:499)&#13;
 net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:471)&#13;
 net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:213)&#13;
 net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:200)&#13;
 net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:92)&#13;
-co.com.choucair.certificatio.exito.stepdefinitions.ExitoStepdefinitions.randomlySelectsFiveProducts(ExitoStepdefinitions.java:45)&#13;
+co.com.choucair.certificatio.exito.tasks.SelectProduct.performAs(SelectProduct.java:55)&#13;
+net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:519)&#13;
+net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:499)&#13;
+net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:471)&#13;
+net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:213)&#13;
+net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:200)&#13;
+net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:92)&#13;
+co.com.choucair.certificatio.exito.stepdefinitions.ExitoStepdefinitions.randomlySelectsFiveProducts(ExitoStepdefinitions.java:37)&#13;
 io.cucumber.java.Invoker.doInvoke(Invoker.java:66)&#13;
 io.cucumber.java.Invoker.invoke(Invoker.java:24)&#13;
 io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)&#13;

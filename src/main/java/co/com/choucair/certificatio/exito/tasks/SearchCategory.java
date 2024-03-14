@@ -17,7 +17,7 @@ public class SearchCategory implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
-                Click.on(SelectCategoryPage.CLOSE_AD),
+                //Click.on(SelectCategoryPage.CLOSE_AD),
                 Click.on(SelectCategoryPage.CATEGORIES),
                 MoveMouse.to(SelectCategoryPage.SELECT_CATEGORY));
     }

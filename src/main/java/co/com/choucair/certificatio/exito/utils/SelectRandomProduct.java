@@ -8,13 +8,5 @@ import org.openqa.selenium.WebElement;
 import java.util.List;
 
 public class SelectRandomProduct {
-    private final WebDriver driver;
 
-    public SelectRandomProduct(WebDriver driver) {
-        this.driver = driver;
-    }
-
-    public List<WebElement> scanElements(By locator) {
-        return driver.findElements(locator);
-    }
 }

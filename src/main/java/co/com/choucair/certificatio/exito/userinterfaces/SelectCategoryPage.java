@@ -12,5 +12,5 @@ public class SelectCategoryPage extends PageObject {
     public static final Target CATEGORIES = Target.the("show all categories").
             located(By.xpath("//*[@id=\"__next\"]/header/section/div[1]/div[1]/button"));
     public static final Target SELECT_CATEGORY = Target.the("select category").
-            located(By.xpath("//*[@id=\"__next\"]/header/aside/ul/section[2]/div/li[1]/div/div/p"));
+            located(By.xpath("//*[@id=\"__next\"]/header/aside/ul/section[2]/div/li[12]/div/div/p"));
 }

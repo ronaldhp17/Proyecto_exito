@@ -1,0 +1,8 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(רצßûÿÿÿÿ8¸נצמג1
+y	java:S127+"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼ָ²ûÿÿÿÿ8¸נצמג1
+:
+java:S2119#"Save and re-use this "Random".(¼Ýֵf8…סצמג1
+G	java:S106'"+Replace this use of System.out by a logger.(ֱ¾§8†סצמג1
+G	java:S106("+Replace this use of System.out by a logger.(‰ֲ©8†סצמג1

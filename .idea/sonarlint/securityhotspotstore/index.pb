@@ -1,8 +1,4 @@
 
-@
-build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
-j
-:src/main/java/co/com/choucair/certificatio/exito/Main.java,1\9\198c9d26214426cca65eb40d3c7fcb20f969f0fa
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
 C
@@ -11,31 +7,37 @@ y
 Isrc/test/java/co/com/choucair/certificatio/exito/runners/ExitoRunner.java,e\9\e9500519c49b323c2d5b6bfe9c4aea8edefa6a24
 Š
 Zsrc/test/java/co/com/choucair/certificatio/exito/stepdefinitions/ExitoStepdefinitions.java,0\6\061e0cb5855d57b58d4831db5ea6f617953b6382
-v
-Fsrc/main/java/co/com/choucair/certificatio/exito/utils/BeforeHook.java,9\d\9d098e9a1b03b086d665eba411c87d27c3b1122c
 t
 Dsrc/main/java/co/com/choucair/certificatio/exito/tasks/OpenPage.java,3\0\30ec76d317f12427c7759ea18881fa7e0a76b255
-}
-Msrc/main/java/co/com/choucair/certificatio/exito/userinterfaces/OpenPage.java,f\2\f2a182713b817896b044e1a2127352d54dab6323
 ~
 Nsrc/main/java/co/com/choucair/certificatio/exito/userinterfaces/ExitoPage.java,6\6\66bc5cb3bce00889efd1fb3ae73a437dc5a1e3e6
-t
-Dsrc/main/java/co/com/choucair/certificatio/exito/tasks/Category.java,9\7\9785852ee9ec8908f117eb99aad7fed8ba62ba0f
 ‡
 Wsrc/main/java/co/com/choucair/certificatio/exito/userinterfaces/SelectCategoryPage.java,6\8\68ac3316cf79697e184077aeb316b7f64804fa98
 z
 Jsrc/main/java/co/com/choucair/certificatio/exito/tasks/SearchCategory.java,4\a\4a2d312ae9e2ad379fc0c4881cfe99a1452a6d3f
-|
-Lsrc/main/java/co/com/choucair/certificatio/exito/tasks/SerchSubCategory.java,c\d\cdace01560b4d46fb0e8d93be0ac7e7a569ffb3a
 }
 Msrc/main/java/co/com/choucair/certificatio/exito/tasks/SearchSubCategory.java,6\8\68ffae92401035eabfb7e216f287b0d4ee7e1ae5
 }
 Msrc/main/java/co/com/choucair/certificatio/exito/tasks/SearchSubcategory.java,d\a\da0184d94bd2658d8c6fa889197b0c2c8d16aea2
 Š
 Zsrc/main/java/co/com/choucair/certificatio/exito/userinterfaces/SelectSubcategoryPage.java,0\1\01c9f3023507ebe488fbc1975ababc21a4b509ec
-y
-Isrc/main/java/co/com/choucair/certificatio/exito/tasks/SearchProduct.java,f\5\f5b0ef6e7acd174834354b596a4fdd79cfd4fd30
 †
 Vsrc/main/java/co/com/choucair/certificatio/exito/userinterfaces/SelectProductPage.java,f\b\fb566fec090c13f756c96f04af69e3f36578e57e
 
 Osrc/main/java/co/com/choucair/certificatio/exito/utils/SelectRandomProduct.java,2\6\2642dd09914f32d459238050be887fe5a2a824ca
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+t
+Dsrc/main/java/co/com/choucair/certificatio/exito/tasks/OpenCart.java,0\1\0140c6f6254e275f0d900d9cfcd3e6c2234ab4dc
+
+Qsrc/main/java/co/com/choucair/certificatio/exito/userinterfaces/OpenCartPage.java,c\a\ca54d77021ac390bb3d032a6520f4029ad19a96c
+O
+target/site/serenity/index.html,c\e\ce1d953599e56cfde85da6acfdbbb722b0c73490
+y
+Isrc/main/java/co/com/choucair/certificatio/exito/tasks/SelectProduct.java,f\c\fc8039c7271dbf0c4e3de155a16fc475a5907e66
+ƒ
+Ssrc/main/java/co/com/choucair/certificatio/exito/questions/ValidateNameProduct.java,e\a\ea282c16be3a33a670be0db62a6f46314f438dd9
+Š
+Zsrc/main/java/co/com/choucair/certificatio/exito/userinterfaces/SelectInfoProductPage.java,3\b\3b7b7ed912f2f78d5baa02abfc5594b4e7d7494e
+‡
+Wsrc/main/java/co/com/choucair/certificatio/exito/userinterfaces/SelectInfoCartPage.java,c\9\c936057a2d4af53418f466318d043d2897996784
